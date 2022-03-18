@@ -8,7 +8,7 @@ namespace EvenFibonacci
         public static void Main(string[] args)
         {
             int n = 100;
-            int regcount = 0;long evencount = 0;
+            long evencount = 0;
             List<long> x = new List<long>();
 
             for (int i = 0; i < n; i++)
